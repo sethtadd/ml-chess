@@ -1,0 +1,7 @@
+# .pth (pytorch) and .npy (numpy) files too big
+*.pth
+*.npy
+
+# resnet code not used
+ResNet.py
+ResNetEvaluator.py
